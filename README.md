@@ -2,7 +2,7 @@
 The following repository analyzes 3 different datasets to determine the Best Pittsburgh Neighborhood  
 
 Final Group 28  
-Nolan Le - nrl51@pitt.edu - StepsNotebook.ipynb
+Nolan Le - nrl51@pitt.edu - StepsNotebook.ipynb  
 Mark Zarroli  -  
 Duc Huy Cao -   
   
