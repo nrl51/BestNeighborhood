@@ -8,4 +8,6 @@ Duc Huy Cao -
   
 Pittsburgh Steps - A listing of all steps and stairways in the City of Pittsburgh - https://data.wprdc.org/dataset/city-steps/resource/43f40ca4-2211-4a12-8b4f-4d052662bb64  
 
+Smart Trash Containers - A listing of all smart trash containers in Pittsburgh - https://data.wprdc.org/dataset/smart-trash-containers
 
+Courts and Rinks - A listing of courts and rinks in Pittsburgh - https://data.wprdc.org/dataset/city-of-pittsburgh-courts
