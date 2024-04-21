@@ -1,7 +1,7 @@
 # BestNeighborhood
 The following repository analyzes 3 different datasets to determine the Best Pittsburgh Neighborhood  
 
-Final Group 28  
+The Steps Counters  
 Nolan Le - nrl51@pitt.edu - StepsNotebook.ipynb  
 Mark Zarroli  -  maz136@pitt.edu - SmartTrashCansNB.ipynb   
 Duc Huy Cao -  duc9@pitt.edu - CourtsAndRinksNB.ipynb  
